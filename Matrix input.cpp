@@ -1,3 +1,7 @@
+//Arman Majhi
+//24070123022
+
+
 #include <iostream>
 
 using namespace std;
@@ -34,7 +38,7 @@ int main() {
     return 0;
 }
 
-output
+//output
 Enter the number of rows (max 10): 3
 Enter the number of columns (max 10): 3
 Enter the matrix elements:
